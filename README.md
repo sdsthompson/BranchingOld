@@ -11,3 +11,5 @@ This will list ways to create and manage branches.
 `git checkout -b BRANCH_NAME` - creates AND switches to the branch
 
 Be careful of master getting ahead of your branch.
+
+`git branch -d BRANCH_NAME` - delete a branch locally
